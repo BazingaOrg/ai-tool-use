@@ -1,55 +1,7 @@
 # Prompt 例子
 
-1. [OpenAI 总裁 Greg Brockman 分析的一个创建完美提示词的思路](https://x.com/tuturetom/status/1894934250820116838)
-2. [这套提示词设计出来的东西更多像是一个基础模板，可以供你参考或者作为基础来修改。](https://x.com/Yayoi_no_yume/status/1894571818574664178)：
+1. ✅[OpenAI 总裁 Greg Brockman 分析的一个创建完美提示词的思路](https://x.com/tuturetom/status/1894934250820116838)
 
-   ````text
-    Understand the Task: Grasp the main objective, goals, requirements, constraints, and expected output.
-    - Minimal Changes: If an existing prompt is provided, improve it only if it's simple.
-        For complex prompts, enhance clarity and add missing elements without altering the original structure.
-    - Reasoning Before Conclusions: Encourage reasoning steps before any conclusions are reached. ATTENTION!
-    If the user provides examples where the reasoning happens afterward, REVERSE the order! NEVER START EXAMPLES WITH CONCLUSIONS!
-    - Reasoning Order: Call out reasoning portions of the prompt and conclusion parts (specific fields by name).
-    For each, determine the ORDER in which this is done, and whether it needs to be reversed.
-    - Conclusion, classifications, or results should ALWAYS appear last.
-   - Examples: Include high-quality examples if helpful, using placeholders [in brackets] for complex elements.
+2. ✅[一款实用的 AI 提示词优化工具：Prompt Optimizer，一键优化提示词质量，支持多轮迭代改进](https://x.com/aigclink/status/1896080656230465562)：支持 Web 应用和 Chrome 插件两种使用方式，可以实时测试优化后的提示词效果，对比优化前后差异，支持 OpenAI、Gemini、DeepSeek 等主流 AI 模型，数据在本地处理，直连 AI 服务商接口，不经过中间服务器。[仓库地址](https://github.com/linshenkx/prompt-optimizer)
 
-   - What kinds of examples may need to be included, how many, and whether they are complex enough to benefit from placeholders.
-   - Clarity and Conciseness: Use clear, specific language. Avoid unnecessary instructions or bland statements.
-
-   - Formatting: Use markdown features for readability. DO NOT USE ``` CODE BLOCKS UNLESS SPECIFICALLY REQUESTED.
-   - Preserve User Content: If the input task or prompt includes extensive guidelines or examples, preserve them entirely, or as closely as possible.
-    If they are vague, consider breaking down into sub-steps. Keep any details, guidelines, examples, variables, or placeholders provided by the user.
-   - Constants: DO include constants in the prompt, as they are not susceptible to prompt injection.
-   Such as guides, rubrics, and examples.
-   - Output Format: Explicitly the most appropriate output format, in detail.
-    This should include length and syntax (e.g. short sentence, paragraph, JSON, etc.)
-    - For tasks outputting well-defined or structured data (classification, JSON, etc.) bias toward outputting a JSON.
-    - JSON should never be wrapped in code blocks (```) unless explicitly requested.
-
-    The final prompt you output should adhere to the following structure below. Do not include any additional commentary, only output the completed system prompt. SPECIFICALLY, do not include any additional messages at the start or end of the prompt. (e.g. no "---")
-
-    [Concise instruction describing the task - this should be the first line in the prompt, no section header]
-
-    [Additional details as needed.]
-
-    [Optional sections with headings or bullet points for detailed steps.]
-
-    # Steps [optional]
-
-    [optional: a detailed breakdown of the steps necessary to accomplish the task]
-
-    # Output Format
-
-    [Specifically call out how the output should be formatted, be it response length, structure e.g. JSON, markdown, etc]
-
-    # Examples [optional]
-
-    [Optional: 1-3 well-defined examples with placeholders if necessary. Clearly mark where examples start and end, and what the input and output are.
-    User placeholders as necessary.]
-    [If the examples are shorter than what a realistic example is expected to be, make a reference with () explaining how real examples should be longer / shorter / different. AND USE PLACEHOLDERS! ]
-
-    # Notes [optional]
-
-    [optional: edge cases, details, and an area to call or repeat out specific important considerations]
-   ````
+   体验感想：用来写 Cursor 的 rule 还挺方便的，比如我原始提示词：你是前端 bug 修复专家，优化后能按格式生成很大一篇。
