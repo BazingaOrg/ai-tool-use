@@ -5,7 +5,7 @@
 3. ✅[全新的 Cursor 编程工作流程](https://x.com/Yangyixxxx/status/1896009611637113044)
 4. ✅[嫌弃 Cursor 思维太发散了吗？那么，请记得在 cursor 完成一个功能后，让它写一份文档放在 docs 目录下。日后使用这个功能时，只需要将文档附在相关上下文中。这样，你的 cursor 就能精准执行，非常省心。](https://x.com/beihuo/status/1895647183057412226)
 5. ✅[Cursor MCP 终极指南](https://x.com/iguangzhengli/status/1894698067989061983)：[用 Cursor MCP + browsertools 插件来体验一下在 Cursor 中自动获取 Chrome dev tools console log 的能力](https://browsertools.agentdesk.ai/installation)
-6. ✅[两个 MCP 优秀资源](https://x.com/vista8/status/1893336389116203256)：（1）[Awesome MCP Server List](https://github.com/appcypher/awesome-mcp-servers?tab=readme-ov-file)（2）[一个专门收录 MCP Server 的网站](https://smithery.ai/)
+6. ✅[一个专门收录 MCP Server 的网站](https://smithery.ai/)
 7. ✅[最近大家说的热火朝天的 MCP，到底有什么神奇功效？](https://x.com/Yangyixxxx/status/1893494130908557571)
 8. ✅[用 Cursor 改善生活质量之：一键生成 Git 提交命令、自动 push](https://x.com/EryouHao/status/1896895313853706390)：通过以下步骤在 Cursor 中直接访问和编辑 keybindings.json：打开命令面板（Windows/Linux: Ctrl+Shift+P，macOS: Cmd+Shift+P）输入 "Preferences: Open Keyboard Shortcuts (JSON)"，这将直接打开 keybindings.json 文件，只需在这个文件中按照以下格式添加并保存：
    ```json
