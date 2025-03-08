@@ -45,3 +45,7 @@
     - 添加顶部状态栏（模拟 iOS 状态栏），并包含 App 导航栏（类似 iOS 底部 Tab Bar）。
         请按照以上要求生成完整的 HTML 代码，并确保其可用于实际开发。
    ```
+
+## 2025.03.08
+
+1. [分享两个 MCP 开源示例](https://x.com/akazwz_/status/1897906346844152151)：(1) [Cloudflare Workers 中使用 Flux 生成配图背景图等](https://github.com/akazwz/workers-mcp-demo)；(2) [Node.js 与 Figma 集成](https://github.com/akazwz/mcp-figma)；
