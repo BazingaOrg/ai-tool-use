@@ -14,4 +14,7 @@
 
 - [Cursor](https://www.cursor.com/)
 - [Raycast](https://www.raycast.com/)
+- [Warp](https://www.warp.dev/)
+- [Dify](https://dify.ai/zh)
+- [Figma](https://www.figma.com/)
 - [Coze](https://www.coze.com/)
