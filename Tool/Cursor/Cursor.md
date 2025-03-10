@@ -49,3 +49,7 @@
 ## 2025.03.08
 
 1. [分享两个 MCP 开源示例](https://x.com/akazwz_/status/1897906346844152151)：(1) [Cloudflare Workers 中使用 Flux 生成配图背景图等](https://github.com/akazwz/workers-mcp-demo)；(2) [Node.js 与 Figma 集成](https://github.com/akazwz/mcp-figma)；
+
+## 2025.03.10
+
+1. [如何在大规模项目中使用 cursor](https://getstream.io/blog/cursor-ai-large-projects/)
