@@ -12,9 +12,9 @@
 
 ## 2025.03.12
 
-1. [VideoLingo，给视频加双语字幕](https://github.com/Huanshere/VideoLingo)
-2. [中国一家团队,用 3 个小时,复刻了一个免费版 Manus,功能和性能一样强大,且 github 开源了,人人免费都可以用！假如您有重复性的工作需求,比如回复邮件,数据整理,ppt 制作,研究报告撰写等,或许它是一个好帮手!它的名字叫：Openmanus🧐 ](https://github.com/mannaandpoem/OpenManus?tab=readme-ov-file)
-3. [Open-Source Animated Cursor React Components](https://github.com/ui-layouts/cursify)
+1. ✅[VideoLingo，给视频加双语字幕](https://github.com/Huanshere/VideoLingo)
+2. ✅[中国一家团队,用 3 个小时,复刻了一个免费版 Manus,功能和性能一样强大,且 github 开源了,人人免费都可以用！假如您有重复性的工作需求,比如回复邮件,数据整理,ppt 制作,研究报告撰写等,或许它是一个好帮手!它的名字叫：Openmanus🧐 ](https://github.com/mannaandpoem/OpenManus?tab=readme-ov-file)
+3. ✅[Open-Source Animated Cursor React Components](https://github.com/ui-layouts/cursify)
 
 ## 2025.03.13
 

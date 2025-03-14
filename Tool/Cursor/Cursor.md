@@ -27,7 +27,7 @@
    ]
    ```
    以上配置的含义：定义了一个快捷键 cmd+g cmd+g，用于一键执行保存文件、暂存 Git 更改、生成提交消息、提交、推送并查看历史记录的完整开发工作流程。
-9. [用 Cursor+Claude 3.7 Sonnet 一段话生成高保真 app 原型图的提示词](https://x.com/AlchainHust/status/1896878623539573023)：
+9. ✅[用 Cursor+Claude 3.7 Sonnet 一段话生成高保真 app 原型图的提示词](https://x.com/AlchainHust/status/1896878623539573023)：
 
    ```text
     我想开发一个{类似小宇宙的播客 app}，现在需要输出高保真的原型图，请通过以下方式帮我完成所有界面的原型设计，并确保这些原型界面可以直接用于开发：
@@ -48,11 +48,11 @@
 
 ## 2025.03.08
 
-1. [分享两个 MCP 开源示例](https://x.com/akazwz_/status/1897906346844152151)：(1) [Cloudflare Workers 中使用 Flux 生成配图背景图等](https://github.com/akazwz/workers-mcp-demo)；(2) [Node.js 与 Figma 集成](https://github.com/akazwz/mcp-figma)；
+1. ✅[分享两个 MCP 开源示例](https://x.com/akazwz_/status/1897906346844152151)：(1) [Cloudflare Workers 中使用 Flux 生成配图背景图等](https://github.com/akazwz/workers-mcp-demo)；(2) [Node.js 与 Figma 集成](https://github.com/akazwz/mcp-figma)；
 
 ## 2025.03.10
 
-1. [如何在大规模项目中使用 cursor](https://getstream.io/blog/cursor-ai-large-projects/)：
+1. ✅[如何在大规模项目中使用 cursor](https://getstream.io/blog/cursor-ai-large-projects/)：
 
    （1）编辑-测试循环是有效使用 AI 的关键：
 
@@ -97,6 +97,6 @@
 
 ## 2025.03.12
 
-1. [用 Cursor 进行开发，Project Rules 还是挺重要的，特别是 Agent 模式，往往事半功倍。但编写 rules 并不是一个简单的事，好在 Cursor 官方提供了工具，只要将项目的 package.json 拖进去就能帮你自动生成一批适合项目的 rules。不要盲目照抄，根据项目的实际情况按需使用](https://x.com/msjiaozhu/status/1899445153368248671)
-2. Cursor 当中的 Claude3.7 的过度设计也太严重了，一个简单的需求一不小心就要提供一个高度抽象的解决方案，加上各种沾沾自喜的优化，假如项目是 typescript 的，那就等死吧，左右互搏疯狂出现类型错误，我去上趟厕所的时间回来已经面目全非了，
+1. ✅[用 Cursor 进行开发，Project Rules 还是挺重要的，特别是 Agent 模式，往往事半功倍。但编写 rules 并不是一个简单的事，好在 Cursor 官方提供了工具，只要将项目的 package.json 拖进去就能帮你自动生成一批适合项目的 rules。不要盲目照抄，根据项目的实际情况按需使用](https://x.com/msjiaozhu/status/1899445153368248671)
+2. ✅Cursor 当中的 Claude3.7 的过度设计也太严重了，一个简单的需求一不小心就要提供一个高度抽象的解决方案，加上各种沾沾自喜的优化，假如项目是 typescript 的，那就等死吧，左右互搏疯狂出现类型错误，我去上趟厕所的时间回来已经面目全非了，
    直接添加一个 rule “重要：不要过度设计！！”
