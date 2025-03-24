@@ -100,3 +100,13 @@
 1. ✅[用 Cursor 进行开发，Project Rules 还是挺重要的，特别是 Agent 模式，往往事半功倍。但编写 rules 并不是一个简单的事，好在 Cursor 官方提供了工具，只要将项目的 package.json 拖进去就能帮你自动生成一批适合项目的 rules。不要盲目照抄，根据项目的实际情况按需使用](https://x.com/msjiaozhu/status/1899445153368248671)
 2. ✅Cursor 当中的 Claude3.7 的过度设计也太严重了，一个简单的需求一不小心就要提供一个高度抽象的解决方案，加上各种沾沾自喜的优化，假如项目是 typescript 的，那就等死吧，左右互搏疯狂出现类型错误，我去上趟厕所的时间回来已经面目全非了，
    直接添加一个 rule “重要：不要过度设计！！”
+
+## 2025.03.20
+
+1. ✅[养成习惯每次提交前让 AI Code Review](https://x.com/YuTengjing/status/1901573729794097554)
+
+## 2025.03.24
+
+1. ✅[推荐这款字体 Maple Mono](https://font.subf.dev/zh-cn/)：1、中英文 2:1；2、连字符；3、带 nerd fonts 图标；4、独特的手写体
+2. ✅[Gemini-2.0-flash-exp 替代的不止是 PS](https://x.com/sixichacha/status/1902984420220604686)
+3. ✅[Gemini-2.0-flash-exp + 混元 3D 2.0 模型，解锁更多可能性](https://x.com/sixichacha/status/1903836585768182251)
