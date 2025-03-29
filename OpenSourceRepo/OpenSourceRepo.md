@@ -19,3 +19,7 @@
 ## 2025.03.13
 
 1. [ComfyUI-Gemini](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini)
+
+## 2025.03.29
+
+1. [使用 Bekuto 3D 将 SVG 转换为 3D 模型，并导出为打印机支持的 3MF 格式。无需上色调参，一键打印。](https://x.com/OikawaRizumu/status/1905189571652165950)
